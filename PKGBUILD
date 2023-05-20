@@ -1,5 +1,6 @@
 #
 # Contribuidor: {{ nome_do_autor(); }}
+# Contribuidor: Messias
 #
 
 pkgname=base
